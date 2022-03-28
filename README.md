@@ -1,7 +1,7 @@
 # QueraQuestion
 - First Week
   |Name of Question| Link | Soloution Dirctory | 
-  |----------------|------|
+  |----------------|------|--------------------|
   |سوال زرد|   https://quera.org/problemset/3537/ |[YellowQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/1.YellowQuestion)|
   |یک سوال ساده| https://quera.org/problemset/2885/ |[AsimpleQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/2.AsimpleQuestion)|
   |یخدارچی| https://quera.org/problemset/3429/ |[Refrigerator](https://github.com/Amirkhaksar/QueraQuestion/tree/main/3.Refrigerator)|
