@@ -10,5 +10,5 @@
   |تک رقمی| https://quera.org/problemset/3539/ |[SingleDigit](https://github.com/Amirkhaksar/QueraQuestion/tree/main/6.SingleDigit)|
   |جدول ضرب گنده| https://quera.org/problemset/3409/ |[LargeMultiplicationTable](https://github.com/Amirkhaksar/QueraQuestion/tree/main/7.LargeMultiplicationTable)|
   |اعداد فیثاغورثی| https://quera.org/problemset/280/ |[PythagoreanNumbers](https://github.com/Amirkhaksar/QueraQuestion/tree/main/8.PythagoreanNumbers)|
-  |روز آزادی بیان در برره| https://quera.org/problemset/10162/ |[]()|
-
+  |روز آزادی بیان در برره| https://quera.org/problemset/10162/ |[Freedom of Expression Day in Barre](https://github.com/Amirkhaksar/QueraQuestion/tree/main/9.FreedomOfExpressionDayinBarre)|
+  |عدد چا پکن|https://quera.org/problemset/9774/|[Print the number](https://github.com/Amirkhaksar/QueraQuestion/tree/main/10.PrintTheNumber)|
