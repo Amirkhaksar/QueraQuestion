@@ -1,14 +1,27 @@
 # QueraQuestion
 - First Week
-  |Name of Question| Link | Soloution Dirctory | 
-  |----------------|------|--------------------|
-  |سوال زرد|   https://quera.org/problemset/3537/ |[YellowQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/YellowQuestion)|
-  |یک سوال ساده| https://quera.org/problemset/2885/ |[AsimpleQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/AsimpleQuestion)|
-  |یخدارچی| https://quera.org/problemset/3429/ |[Refrigerator](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Refrigerator)|
-  |فاکتوریل| https://quera.org/problemset/589/ |[Factorial](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Factorial)|
-  |مشق امشب باقر| https://quera.org/problemset/10230/ |[HomeworkTonightBagher](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HomeworkTonightBagher)|
-  |تک رقمی| https://quera.org/problemset/3539/ |[SingleDigit](https://github.com/Amirkhaksar/QueraQuestion/tree/main/SingleDigit)|
-  |جدول ضرب گنده| https://quera.org/problemset/3409/ |[LargeMultiplicationTable](https://github.com/Amirkhaksar/QueraQuestion/tree/main/LargeMultiplicationTable)|
-  |اعداد فیثاغورثی| https://quera.org/problemset/280/ |[PythagoreanNumbers](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PythagoreanNumbers)|
-  |روز آزادی بیان در برره| https://quera.org/problemset/10162/ |[Freedom of Expression Day in Barre](https://github.com/Amirkhaksar/QueraQuestion/tree/main/FreedomOfExpressionDayinBarre)|
-  |عدد چا پکن|https://quera.org/problemset/9774/|[Print the number](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PrintTheNumber)|
+  | Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
+  | ---------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+  | سوال زرد               | https://quera.org/problemset/3537/  | [YellowQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/YellowQuestion)                                    |
+  | یک سوال ساده           | https://quera.org/problemset/2885/  | [AsimpleQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/AsimpleQuestion)                                  |
+  | یخدارچی                | https://quera.org/problemset/3429/  | [Refrigerator](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Refrigerator)                                        |
+  | فاکتوریل               | https://quera.org/problemset/589/   | [Factorial](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Factorial)                                              |
+  | مشق امشب باقر          | https://quera.org/problemset/10230/ | [HomeworkTonightBagher](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HomeworkTonightBagher)                      |
+  | تک رقمی                | https://quera.org/problemset/3539/  | [SingleDigit](https://github.com/Amirkhaksar/QueraQuestion/tree/main/SingleDigit)                                          |
+  | جدول ضرب گنده          | https://quera.org/problemset/3409/  | [LargeMultiplicationTable](https://github.com/Amirkhaksar/QueraQuestion/tree/main/LargeMultiplicationTable)                |
+  | اعداد فیثاغورثی        | https://quera.org/problemset/280/   | [PythagoreanNumbers](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PythagoreanNumbers)                            |
+  | روز آزادی بیان در برره | https://quera.org/problemset/10162/ | [Freedom of Expression Day in Barre](https://github.com/Amirkhaksar/QueraQuestion/tree/main/FreedomOfExpressionDayinBarre) |
+  | عدد چا پکن             | https://quera.org/problemset/9774/  | [Print the number](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PrintTheNumber)                                  |
+- Second Week
+  | Name of Question   | Link                                | Soloution Dirctory                                                                                  |
+  | ------------------ | ----------------------------------- | --------------------------------------------------------------------------------------------------- |
+  | همایش زندگی بهتر   | https://quera.org/problemset/10325/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference) |
+  | چاپ برعکس          | https://quera.org/problemset/3405/  | [Reverseprinting](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Reverseprinting)           |
+  | کامل بودن یا نبودن | https://quera.org/problemset/282/  | [PerfectionOrNot](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PerfectionOrNot) |
+  | آخ جون طرف نیست! | https://quera.org/problemset/3538/  | [AkheJonTarfNist](https://github.com/Amirkhaksar/QueraQuestion/tree/main/AkheJonTarfNist) |
+  | شطرنج حرف های | https://quera.org/problemset/2636/  | [ProfessionalChess](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ProfessionalChess) |
+  | صدگان خسته | https://quera.org/problemset/3406/  | [HundredsAreTired](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HundredsAreTired) |
+  | رژیم سخت | https://quera.org/problemset/20256/  | [HardDiet](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HardDiet) |
+  | ماکزیمم | https://quera.org/problemset/588/  | [Maximum](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Maximum) |
+  | ام سین | https://quera.org/problemset/28947/  | [OmSin](https://github.com/Amirkhaksar/QueraQuestion/tree/main/OmSin) |
+  
