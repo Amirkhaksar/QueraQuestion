@@ -13,8 +13,8 @@
   | روز آزادی بیان در برره | https://quera.org/problemset/10162/ | [Freedom of Expression Day in Barre](https://github.com/Amirkhaksar/QueraQuestion/tree/main/FreedomOfExpressionDayinBarre) |
   | عدد چا پکن             | https://quera.org/problemset/9774/  | [Print the number](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PrintTheNumber)                                  |
 - Second Week
-  | Name of Question   | Link                                | Soloution Dirctory                                                                                  |
-  | ------------------ | ----------------------------------- | --------------------------------------------------------------------------------------------------- |
+  | Name of Question   | Link                                | Soloution Dirctory                                                                                                              |
+  | ------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
   | همایش زندگی بهتر   | https://quera.org/problemset/10325/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference) |
   | چاپ برعکس          | https://quera.org/problemset/3405/  | [Reverseprinting](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Reverseprinting)           |
   | کامل بودن یا نبودن | https://quera.org/problemset/282/  | [PerfectionOrNot](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PerfectionOrNot) |
