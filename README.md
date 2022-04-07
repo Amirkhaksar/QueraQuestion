@@ -13,15 +13,24 @@
   | روز آزادی بیان در برره | https://quera.org/problemset/10162/ | [Freedom of Expression Day in Barre](https://github.com/Amirkhaksar/QueraQuestion/tree/main/FreedomOfExpressionDayinBarre) |
   | عدد چا پکن             | https://quera.org/problemset/9774/  | [Print the number](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PrintTheNumber)                                  |
 - Second Week
-  | Name of Question   | Link                                | Soloution Dirctory                                                                                                              |
-  | ------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-  | همایش زندگی بهتر   | https://quera.org/problemset/10325/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference) |
-  | چاپ برعکس          | https://quera.org/problemset/3405/  | [Reverseprinting](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Reverseprinting)           |
-  | کامل بودن یا نبودن | https://quera.org/problemset/282/  | [PerfectionOrNot](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PerfectionOrNot) |
-  | آخ جون طرف نیست! | https://quera.org/problemset/3538/  | [AkheJonTarfNist](https://github.com/Amirkhaksar/QueraQuestion/tree/main/AkheJonTarfNist) |
-  | شطرنج حرف های | https://quera.org/problemset/2636/  | [ProfessionalChess](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ProfessionalChess) |
-  | صدگان خسته | https://quera.org/problemset/3406/  | [HundredsAreTired](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HundredsAreTired) |
-  | رژیم سخت | https://quera.org/problemset/20256/  | [HardDiet](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HardDiet) |
-  | ماکزیمم | https://quera.org/problemset/588/  | [Maximum](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Maximum) |
-  | ام سین | https://quera.org/problemset/28947/  | [OmSin](https://github.com/Amirkhaksar/QueraQuestion/tree/main/OmSin) |
+  | Name of Question    | Link                                | Soloution Dirctory                                                                                        |
+  | ------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------- |
+  | همایش زندگی بهتر    | https://quera.org/problemset/10325/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | چاپ برعکس           | https://quera.org/problemset/3405/  | [Reverseprinting](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Reverseprinting)                 |
+  | دو نقطه خط          | https://quera.org/problemset/3414/  | [TwolineDots](https://github.com/Amirkhaksar/QueraQuestion/tree/main/TwolineDots)                         |
+  | خر در چمن فراوانه!! | https://quera.org/problemset/4065/  | [DonkeysAboundInTheGrass](https://github.com/Amirkhaksar/QueraQuestion/tree/main/DonkeysAboundInTheGrass) |
+  | توان دو             | https://quera.org/problemset/616/   | [PowerTwo](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PowerTwo)                               |
+  | کامل بودن یا نبودن  | https://quera.org/problemset/282/   | [PerfectionOrNot](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PerfectionOrNot)                 |
+  | چاپ مربع            | https://quera.org/problemset/591/   | [SquarePrinting](https://github.com/Amirkhaksar/QueraQuestion/tree/main/SquarePrinting)                   |
+  | بهداشت و سلامت      | https://quera.org/problemset/51865/ | [SanitationAndHealth](https://github.com/Amirkhaksar/QueraQuestion/tree/main/SanitationAndHealth)         |
+  | کمک به کاپی         | https://quera.org/problemset/51865/ | [HelpToCapy](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HelpToCapy)                           |
+  | آخ جون طرف نیست!    | https://quera.org/problemset/3538/  | [AkheJonTarfNist](https://github.com/Amirkhaksar/QueraQuestion/tree/main/AkheJonTarfNist)                 |
+  | شطرنج حرف های       | https://quera.org/problemset/2636/  | [ProfessionalChess](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ProfessionalChess)             |
+  | صدگان خسته          | https://quera.org/problemset/3406/  | [HundredsAreTired](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HundredsAreTired)               |
+  | رژیم سخت            | https://quera.org/problemset/20256/ | [HardDiet](https://github.com/Amirkhaksar/QueraQuestion/tree/main/HardDiet)                               |
+  | ماکزیمم             | https://quera.org/problemset/588/   | [Maximum](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Maximum)                                 |
+  | ام سین              | https://quera.org/problemset/28947/ | [OmSin](https://github.com/Amirkhaksar/QueraQuestion/tree/main/OmSin)                                     |
+  | عدد خودمقلوب        | https://quera.org/problemset/617/   | [ReverseNumber](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ReverseNumber)                     |
+  | تست بینایی          | https://quera.org/problemset/2659/  | [VisionTest](https://github.com/Amirkhaksar/QueraQuestion/tree/main/VisionTest)                           |
+- Third Week
   
