@@ -33,4 +33,9 @@
   | عدد خودمقلوب        | https://quera.org/problemset/617/   | [ReverseNumber](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ReverseNumber)                     |
   | تست بینایی          | https://quera.org/problemset/2659/  | [VisionTest](https://github.com/Amirkhaksar/QueraQuestion/tree/main/VisionTest)                           |
 - Third Week
+| Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
+  | ---------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+  | مثلث خیام پاسکال               | https://quera.org/problemset/3410/  | [KhayamPaskal](https://github.com/Amirkhaksar/QueraQuestion/tree/main/KhayamPaskal)                                    |
+	| تاریخ تولد               | https://quera.org/problemset/615/  | [BirthDate](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BirthDate)                                    |
+	| رشته فیبوناچی               | https://quera.org/problemset/17675/  | [Fibonacci](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Fibonacci)                                    |
   
