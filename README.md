@@ -36,6 +36,6 @@
 | Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
   | ---------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
   | مثلث خیام پاسکال               | https://quera.org/problemset/3410/  | [KhayamPaskal](https://github.com/Amirkhaksar/QueraQuestion/tree/main/KhayamPaskal)                                    |
-	| تاریخ تولد               | https://quera.org/problemset/615/  | [BirthDate](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BirthDate)                                    |
+	| تاریخ تولد               | https://quera.org/problemset/615/  | [Birthdate](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BirthDate)                                    |
 	| رشته فیبوناچی               | https://quera.org/problemset/17675/  | [Fibonacci](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Fibonacci)                                    |
   
