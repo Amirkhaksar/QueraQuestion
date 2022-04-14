@@ -1,7 +1,11 @@
-//Language = java
-//ID = 2637
-//QLink = https://quera.org/problemset/2637/
-//Author = AmirKhaksar
+
+/*
+	Language = java
+	ID = 2637
+	QLink = https://quera.org/problemset/2637/
+	Author = AmirKhaksar
+*/
+
 import java.util.Scanner;
 
 public class RoadConstruction {
