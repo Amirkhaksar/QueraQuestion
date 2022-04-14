@@ -35,18 +35,18 @@
 - Third Week
   | Name of Question    | Link                                | Soloution Dirctory                                                                                        |
   | ------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------- |
-  | تاریخ تولد    | https://quera.org/problemset/615/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | شارژ موبایل    | https://quera.org/problemset/17244/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | بلندگو   | https://quera.org/problemset/3430/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | سوال برنامه نویسی برنامه نویسی سوال    | https://quera.org/problemset/3408/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | تو چقدر اضافه وزن داری؟    | https://quera.org/problemset/3404/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | رشته فیبوناچی    | https://quera.org/problemset/17675/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | اعداد اول    | https://quera.org/problemset/293/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | خُب باقر سرما خورده    | https://quera.org/problemset/10231/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | صبا و سوال ساده    | https://quera.org/problemset/31025/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | لوزیهای ستار های    | https://quera.org/problemset/9773/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | آسمان شکر آباد    | https://quera.org/problemset/6082/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | گردو شکستم    | https://quera.org/problemset/3540/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | مثلث خیام پاسکال    | https://quera.org/problemset/3410/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | ساده تر    | https://quera.org/problemset/3403/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
-  | هندونه خوری    | https://quera.org/problemset/35253/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | تاریخ تولد    | https://quera.org/problemset/615/ | [BirthdayDate](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BirthdayDate)       |
+  | شارژ موبایل    | https://quera.org/problemset/17244/ | [RechargeMobile](https://github.com/Amirkhaksar/QueraQuestion/tree/main/RechargeMobile)       |
+  | بلندگو   | https://quera.org/problemset/3430/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Speaker)       |
+  | سوال برنامه نویسی برنامه نویسی سوال    | https://quera.org/problemset/3408/ | [ProgrammingQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ProgrammingQuestion)       |
+  | تو چقدر اضافه وزن داری؟    | https://quera.org/problemset/3404/ | [howoverweightareyou](https://github.com/Amirkhaksar/QueraQuestion/tree/main/howoverweightareyou)       |
+  | رشته فیبوناچی    | https://quera.org/problemset/17675/ | [Fibonacci](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Fibonacci)       |
+  | اعداد اول    | https://quera.org/problemset/293/ | [PrimeNumber](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PrimeNumber)       |
+  | خُب باقر سرما خورده    | https://quera.org/problemset/10231/ | [Well%2CBaqirhasacold](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Well%2CBaqirhasacold)       |
+  | صبا و سوال ساده    | https://quera.org/problemset/31025/ | [SabaAndSimpleQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/SabaAndSimpleQuestion)       |
+  | لوزیهای ستار های    | https://quera.org/problemset/9773/ | [StarLozenges](https://github.com/Amirkhaksar/QueraQuestion/tree/main/StarLozenges)       |
+  | آسمان شکر آباد    | https://quera.org/problemset/6082/ | [SkySugarAbad](https://github.com/Amirkhaksar/QueraQuestion/tree/main/SkySugarAbad)       |
+  | گردو شکستم    | https://quera.org/problemset/3540/ | [Ibrokeawalnut](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Ibrokeawalnut)       |
+  | مثلث خیام پاسکال    | https://quera.org/problemset/3410/ | [KhayamPaskal](https://github.com/Amirkhaksar/QueraQuestion/tree/main/KhayamPaskal)       |
+  | ساده تر    | https://quera.org/problemset/3403/ | [Simple](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Simple)       |
+  | هندونه خوری    | https://quera.org/problemset/35253/ | [Eatwatermelon](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Eatwatermelon)       |
