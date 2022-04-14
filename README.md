@@ -1,7 +1,7 @@
 # QueraQuestion
 - First Week
   | Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
-  | ---------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+  | ---------------------- | ----------------------------------- |-------------------------------------------------------------------------------------------------------------------------- |
   | سوال زرد               | https://quera.org/problemset/3537/  | [YellowQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/YellowQuestion)                                    |
   | یک سوال ساده           | https://quera.org/problemset/2885/  | [AsimpleQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/AsimpleQuestion)                                  |
   | یخدارچی                | https://quera.org/problemset/3429/  | [Refrigerator](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Refrigerator)                                        |
@@ -33,3 +33,20 @@
   | عدد خودمقلوب        | https://quera.org/problemset/617/   | [ReverseNumber](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ReverseNumber)                     |
   | تست بینایی          | https://quera.org/problemset/2659/  | [VisionTest](https://github.com/Amirkhaksar/QueraQuestion/tree/main/VisionTest)                           |
 - Third Week
+  | Name of Question    | Link                                | Soloution Dirctory                                                                                        |
+  | ------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------- |
+  | تاریخ تولد    | https://quera.org/problemset/615/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | شارژ موبایل    | https://quera.org/problemset/17244/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | بلندگو   | https://quera.org/problemset/3430/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | سوال برنامه نویسی برنامه نویسی سوال    | https://quera.org/problemset/3408/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | تو چقدر اضافه وزن داری؟    | https://quera.org/problemset/3404/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | رشته فیبوناچی    | https://quera.org/problemset/17675/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | اعداد اول    | https://quera.org/problemset/293/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | خُب باقر سرما خورده    | https://quera.org/problemset/10231/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | صبا و سوال ساده    | https://quera.org/problemset/31025/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | لوزیهای ستار های    | https://quera.org/problemset/9773/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | آسمان شکر آباد    | https://quera.org/problemset/6082/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | گردو شکستم    | https://quera.org/problemset/3540/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | مثلث خیام پاسکال    | https://quera.org/problemset/3410/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | ساده تر    | https://quera.org/problemset/3403/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
+  | هندونه خوری    | https://quera.org/problemset/35253/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BetterLifeConference)       |
