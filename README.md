@@ -50,3 +50,4 @@
   | مثلث خیام پاسکال    | https://quera.org/problemset/3410/ | [KhayamPaskal](https://github.com/Amirkhaksar/QueraQuestion/tree/main/KhayamPaskal)       |
   | ساده تر    | https://quera.org/problemset/3403/ | [Simple](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Simple)       |
   | هندونه خوری    | https://quera.org/problemset/35253/ | [Eatwatermelon](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Eatwatermelon)       |
+- Forth week
