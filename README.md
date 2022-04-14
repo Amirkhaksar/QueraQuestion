@@ -1,7 +1,7 @@
 # QueraQuestion
 - First Week
- | Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
- | ---------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+ | Name of Question    | Link                                | Soloution Dirctory                                                                                        |
+ | ------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------- |
  | سوال زرد               | https://quera.org/problemset/3537/  | [YellowQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/YellowQuestion)                                    |
  | یک سوال ساده           | https://quera.org/problemset/2885/  | [AsimpleQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/AsimpleQuestion)                                  |
  | یخدارچی                | https://quera.org/problemset/3429/  | [Refrigerator](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Refrigerator)                                        |
@@ -33,25 +33,9 @@
  | عدد خودمقلوب        | https://quera.org/problemset/617/   | [ReverseNumber](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ReverseNumber)                     |
  | تست بینایی          | https://quera.org/problemset/2659/  | [VisionTest](https://github.com/Amirkhaksar/QueraQuestion/tree/main/VisionTest)                           |
 - Third Week
-<<<<<<< HEAD
- | Name of Question | Link | Soloution Dirctory |
- | ---------------- | ---- | ------------------ |
- | تاریخ تولد       |      |                    |
- |                  |      |                    |
- |                  |      |                    |
- |                  |      |                    |
- |                  |      |                    |
- |                  |      |                    |
- |                  |      |                    |
- |                  |      |                    |
- |                  |      |                    |
- |                  |      |                    |
- |                  |      |                    |
-=======
-| Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
-  | ---------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-  | مثلث خیام پاسکال               | https://quera.org/problemset/3410/  | [KhayamPaskal](https://github.com/Amirkhaksar/QueraQuestion/tree/main/KhayamPaskal)                                    |
-	| تاریخ تولد               | https://quera.org/problemset/615/  | [Birthdate](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Birthdate)                                    |
-	| رشته فیبوناچی               | https://quera.org/problemset/17675/  | [Fibonacci](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Fibonacci)                                    |
+| Name of Question | Link                                | Soloution Dirctory                                                                  |
+| ---------------- | ----------------------------------- | ----------------------------------------------------------------------------------- |
+| مثلث خیام پاسکال | https://quera.org/problemset/3410/  | [KhayamPaskal](https://github.com/Amirkhaksar/QueraQuestion/tree/main/KhayamPaskal) |
+| تاریخ تولد       | https://quera.org/problemset/615/   | [Birthdate](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Birthdate)       |
+| رشته فیبوناچی    | https://quera.org/problemset/17675/ | [Fibonacci](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Fibonacci)       |
   
->>>>>>> 26177c398a633c9538b541cdd4330bc294a61530
