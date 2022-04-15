@@ -1,7 +1,7 @@
 /*
 	Language: Java
 	ID: 33045
-	Qlink: https://quera.org/problemset/33045/submissions/
+	Qlink: https://quera.org/problemset/33045/
 	Author: cssu-ama
 */
 
