@@ -27,7 +27,6 @@ public class RoadConstructionSecondSolution {
 				checker = 0;
 			}
 			
-			//System.out.println(difference);
 		}
 		
 		System.out.print(sum);
