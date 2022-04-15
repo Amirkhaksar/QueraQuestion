@@ -1,7 +1,7 @@
 # QueraQuestion
 - First Week
   | Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
-  | ---------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+  | ---------------------- | ----------------------------------- |-------------------------------------------------------------------------------------------------------------------------- |
   | سوال زرد               | https://quera.org/problemset/3537/  | [YellowQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/YellowQuestion)                                    |
   | یک سوال ساده           | https://quera.org/problemset/2885/  | [AsimpleQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/AsimpleQuestion)                                  |
   | یخدارچی                | https://quera.org/problemset/3429/  | [Refrigerator](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Refrigerator)                                        |
@@ -33,9 +33,21 @@
   | عدد خودمقلوب        | https://quera.org/problemset/617/   | [ReverseNumber](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ReverseNumber)                     |
   | تست بینایی          | https://quera.org/problemset/2659/  | [VisionTest](https://github.com/Amirkhaksar/QueraQuestion/tree/main/VisionTest)                           |
 - Third Week
-| Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
-  | ---------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-  | مثلث خیام پاسکال               | https://quera.org/problemset/3410/  | [KhayamPaskal](https://github.com/Amirkhaksar/QueraQuestion/tree/main/KhayamPaskal)                                    |
-	| تاریخ تولد               | https://quera.org/problemset/615/  | [Birthdate](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Birthdate)                                    |
-	| رشته فیبوناچی               | https://quera.org/problemset/17675/  | [Fibonacci](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Fibonacci)                                    |
-  
+  | Name of Question    | Link                                | Soloution Dirctory                                                                                        |
+  | ------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------- |
+  | تاریخ تولد    | https://quera.org/problemset/615/ | [BirthdayDate](https://github.com/Amirkhaksar/QueraQuestion/tree/main/BirthdayDate)       |
+  | شارژ موبایل    | https://quera.org/problemset/17244/ | [RechargeMobile](https://github.com/Amirkhaksar/QueraQuestion/tree/main/RechargeMobile)       |
+  | بلندگو   | https://quera.org/problemset/3430/ | [BetterLifeConference](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Speaker)       |
+  | سوال برنامه نویسی برنامه نویسی سوال    | https://quera.org/problemset/3408/ | [ProgrammingQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/ProgrammingQuestion)       |
+  | تو چقدر اضافه وزن داری؟    | https://quera.org/problemset/3404/ | [howoverweightareyou](https://github.com/Amirkhaksar/QueraQuestion/tree/main/howoverweightareyou)       |
+  | رشته فیبوناچی    | https://quera.org/problemset/17675/ | [Fibonacci](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Fibonacci)       |
+  | اعداد اول    | https://quera.org/problemset/293/ | [PrimeNumber](https://github.com/Amirkhaksar/QueraQuestion/tree/main/PrimeNumber)       |
+  | خُب باقر سرما خورده    | https://quera.org/problemset/10231/ | [Well%2CBaqirhasacold](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Well%2CBaqirhasacold)       |
+  | صبا و سوال ساده    | https://quera.org/problemset/31025/ | [SabaAndSimpleQuestion](https://github.com/Amirkhaksar/QueraQuestion/tree/main/SabaAndSimpleQuestion)       |
+  | لوزیهای ستار های    | https://quera.org/problemset/9773/ | [StarLozenges](https://github.com/Amirkhaksar/QueraQuestion/tree/main/StarLozenges)       |
+  | آسمان شکر آباد    | https://quera.org/problemset/6082/ | [SkySugarAbad](https://github.com/Amirkhaksar/QueraQuestion/tree/main/SkySugarAbad)       |
+  | گردو شکستم    | https://quera.org/problemset/3540/ | [Ibrokeawalnut](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Ibrokeawalnut)       |
+  | مثلث خیام پاسکال    | https://quera.org/problemset/3410/ | [KhayamPaskal](https://github.com/Amirkhaksar/QueraQuestion/tree/main/KhayamPaskal)       |
+  | ساده تر    | https://quera.org/problemset/3403/ | [Simple](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Simple)       |
+  | هندونه خوری    | https://quera.org/problemset/35253/ | [Eatwatermelon](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Eatwatermelon)       |
+- Forth week
