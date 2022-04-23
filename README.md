@@ -52,3 +52,11 @@
   | ساده تر    | https://quera.org/problemset/3403/ | [Simple](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Simple)       |
   | هندونه خوری    | https://quera.org/problemset/35253/ | [Eatwatermelon](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Eatwatermelon)       |
 - Forth week
+| Name of Question    | Link                                | Soloution Dirctory                                                                                        |
+  | ------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------- |
+  | دوربین مدار بسته    | https://quera.org/problemset/2794/ | [Cctv](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Cctv)       |
+	| اول بینی    | https://quera.org/problemset/649/ | [avalbini](https://github.com/Amirkhaksar/QueraQuestion/tree/main/avalbini)       |
+	| اسم ها    | https://quera.org/problemset/2529/ | [Names](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Names)       |
+	| استارت-آپ با کلاس    | https://quera.org/problemset/10326/ | [Start-UpClass](https://github.com/Amirkhaksar/QueraQuestion/tree/main/Start-UpClass)       |
+	| مقسوم علیه های دردسر ساز    | https://quera.org/problemset/33045/ | [TroubleMakerDividers](https://github.com/Amirkhaksar/QueraQuestion/tree/main/TroubleMakerDividers)       |
+	
