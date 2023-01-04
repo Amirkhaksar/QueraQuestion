@@ -1,20 +1,20 @@
-#include <stdio.h>
+#include <iostream>
 
-int main()
-{
-	int chessPieces[6];
-	scanf("%d", &chessPieces[0]);
-	scanf("%d", &chessPieces[1]);
-	scanf("%d", &chessPieces[2]);
-	scanf("%d", &chessPieces[3]);
-	scanf("%d", &chessPieces[4]);
-	scanf("%d", &chessPieces[5]);
-    
-	printf("%d %d %d %d %d %d",
-		1 - chessPieces[0],
-		1 - chessPieces[1],
-		2 - chessPieces[2],
-		2 - chessPieces[3],
-		2 - chessPieces[4],
-		8 - chessPieces[5]
-	);
+int main (){
+    int Pieces[6];
+    std::cin >> 
+	    Pieces[0]>>
+	    Pieces[1]>>
+	    Pieces[2]>>
+	    Pieces[3]>>
+	    Pieces[4]>>
+	    Pieces[5];
+    std::cout << 
+	    1-Pieces[0] <<" "<<
+	    1-Pieces[1]<<" "<<
+	    2-Pieces[2]<<" "<<
+	    2-Pieces[3]<<" "<<
+	    2-Pieces[4]<<" "<<
+	    8-Pieces[5]<<std::endl;
+    return 0;
+}
