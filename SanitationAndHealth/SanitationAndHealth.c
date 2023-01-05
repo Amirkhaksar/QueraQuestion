@@ -13,6 +13,9 @@ int main (int argc, char *argv[])
     else {
         n-=m;
     }
+    if (n<0){
+        n=0;
+    }
     printf("%d\n",n);
     return 0;
 }
