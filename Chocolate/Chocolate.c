@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/* answer to https://quera.org/problemset/146465/ */
 int main (int argc, char *argv[])
 {
     int n;
