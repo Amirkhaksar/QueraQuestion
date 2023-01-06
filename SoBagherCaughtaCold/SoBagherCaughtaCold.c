@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <string.h>
+
+/* solution to https://quera.org/problemset/10231/ */
 struct String {
     char c[20];
 };
